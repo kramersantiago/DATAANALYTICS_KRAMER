@@ -12,6 +12,7 @@ Para este proyecto se utilizaron datos de [Buenos Aires Data](https://data.bueno
  * **HECHOS**: contiene filas del hecho ocurrido con identificador único y las variables temporales, espaciales y participantes asociadas al mismo.
 
  * **VICTIMAS**: contiene filsa por cada víctima y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima. Se vincula a los HECHOS mediante el id del hecho.
+ * [**Diccionario de datos**](https://docs.google.com/spreadsheets/d/1Op98U-Hh2a3Q7uuznAzdl4Bf8r8qPr4m/edit#gid=1771770012)
 
 ## Análisis Exploratorio de Datos (EDA)
 
