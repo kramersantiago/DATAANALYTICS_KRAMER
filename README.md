@@ -23,7 +23,7 @@ El primer paso que se realizó fue la de extraer los datos del archivo:
 Una vez hecho ésto, se analizó la información general de los datos, tanto como cantidad de registros, valores faltantes, cantidad de variables y duplicados.
 
 ### Análisis de los datos
-Se ha notado una disminución constante desde 2018, con un punto bajo destacado en 2020 debido a las medidas de cuarentena por el COVID-19. Sin embargo, al examinar el desglose mensual de ese año, se ha detectado un aumento notable a partir de diciembre, atribuido a una relajación de las restricciones por las festividades.
+Se ha notado una disminución constante desde 2018, con un mínimo notable en 2020 debido a la cuarentena estricta por la pandemia de COVID-19. A pesar de ello, se ha detectado un aumento notable de siniestros a partir de diciembre, atribuido a una flexibilización de las restricciones por las festividades.
 
 Posteriormente, se ha analizado la distribución de víctimas según los días de la semana, identificando que los lunes y los fines de semana registran los números más altos. Esto se explica por el inicio de la semana laboral los lunes, que aumenta el tráfico, y los fines de semana, cuando las personas tienden a salir y reunirse, aumentando así la movilidad y el tráfico.
 
