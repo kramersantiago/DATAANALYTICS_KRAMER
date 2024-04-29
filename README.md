@@ -25,13 +25,13 @@ Una vez hecho ésto, se analizó la información general de los datos, tanto com
 ### Análisis de los datos
 Se ha notado una disminución constante desde 2018, con un mínimo notable en 2020 debido a la cuarentena estricta por la pandemia de COVID-19. A pesar de ello, se ha detectado un aumento notable de siniestros a partir de diciembre, atribuido a una flexibilización de las restricciones por las festividades.
 
-Posteriormente, se ha analizado la distribución de víctimas según los días de la semana, identificando que los lunes y los fines de semana registran los números más altos. Esto se explica por el inicio de la semana laboral los lunes, que aumenta el tráfico, y los fines de semana, cuando las personas tienden a salir y reunirse, aumentando así la movilidad y el tráfico.
+En el análisis de distribución de víctimas según los días de la semana, se identificó que los lunes y los fines de semana registran los números ligeramente más altos con respecto a los demás. Un causante de esto es el inicio de la semana laboral los lunes, donde aumenta el tráfico, y los fines de semana, cuando las personas tienden a salir, aumentando así el tráfico.
 
-Se ha examinado la distribución horaria de los accidentes, notándose un aumento marcado alrededor de las 6 de la mañana. Durante los fines de semana, este aumento se relaciona con la salida a boliches y fiestas, aumentando las posibilidades de accidentes debido a conductores ebrios.
+Se ha examinado la distribución horaria de los accidentes, notándose un aumento alrededor de las 6 y 7 de la mañana. Durante los fines de semana, este aumento se relaciona con la salida a boliches y fiestas, aumentando las posibilidades de accidentes debido a conductores ebrios, durante los días entre semana esto se debe al inicio de la jornada laboral. Se aprecia también una gran disminución a las 13 horas, debido a que es generalmente la hora del almuerzo.
 
-Se ha observado que la mayoría de las víctimas son hombres, principalmente entre los 20 y 40 años, siendo las motocicletas y los peatones los más afectados. Las motocicletas son vulnerables en la carretera, y los peatones pueden ser afectados por el comportamiento imprudente de algunos conductores.
+Se ha observado que la mayoría de las víctimas son hombres, pero esto se debe a que hay una proporción mucho mayor de conductores masculinos. Las motocicletas y los peatones son los más afectados. Las motocicletas son vehículos más vulnerables, lo que incrementa las víctimas. En cuanto a los peatones, estos se ven afectados por imprudencias tanto de estos como de los conductores.
 
-Esta concentración de accidentes en el grupo de edad de 20 a 40 años puede ser ocasionada por encontrarse entre las personas que van a trabajar o aquellas que salen a reuniones o fiestas con mayor frecuencia en el caso de los más jovenes. Este análisis destaca la necesidad de medidas preventivas y una mayor conciencia pública para mejorar la seguridad vial.
+Hay una mayor concentración de accidentes en un rango etario de 21 a 40 años que es ocasionado por ser la clase que más sale por trabajo o aquellas que salen a reuniones o fiestas con mayor frecuencia en el caso de los más jovenes. Este análisis destaca la necesidad de medidas preventivas y una mayor conciencia pública para mejorar la seguridad vial.
 
 ## **Visualización**
 Se utliza la herramienta Power BI para desarrollar una dashboard interactivo para analizar los datos de manera más dinámica.
